@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Nov 21 Math homework
+# Comments by Dax
+# Code by Dad
+
 from random import sample
 from itertools import ifilter
 
